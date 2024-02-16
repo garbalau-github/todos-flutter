@@ -1,16 +1,16 @@
-# flutter_todos
+### Quick Start
 
-A new Flutter project.
+Clone this repo
 
-## Getting Started
+```console
+git clone https://github.com/garbalau-github/todos-flutter
+```
 
-This project is a starting point for a Flutter application.
+Make sure you have flutter installed, verify it with
+```console
+flutter doctor
+```
 
-A few resources to get you started if this is your first Flutter project:
+### UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="400" alt="Screenshot 2024-02-16 at 10 37 40 AM" src="https://github.com/garbalau-github/todos-flutter/assets/53371076/abfcf69a-8da5-48c2-a0f6-8bfdce3bba3f">
